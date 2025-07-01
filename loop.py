@@ -38,7 +38,7 @@ while x<10:
     x+=1
 
 #for infinite loop
-a=0
-while True:
-    print(a)
-    a+=1
+#a=0
+#while True:
+    #print(a)
+   # a+=1
